@@ -1,0 +1,3 @@
+List es6 feature
+what is Promise in Javascript?
+Difference between == and ===
