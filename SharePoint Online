@@ -1,3 +1,21 @@
 What are differences between SharePoint Online and SharePoint On Premises Differences?
 Difference between Office 365 group and Azure AD group?
 List SPfx tools chain 
+What are steps to deploy SPfx extension?
+Can we able to deploy spfx to specific site collection?
+How to set SPFx extension property?
+How to reference external library in SPfx (without importing directly to solution)?
+How to call SharePoint Rest api in SPfx?
+Difference between Communication site ,Teams site, Teams team
+How Hero webpart works?
+What are different option to configure search webparts in Modern SharePoint site?
+Can we get logs from SharePoint Online using correlation id?
+Consider scenario where we would like to migrate file from SharePoint on premise to SharePoint Online using PowerShell. How we could achieve this functionality?
+Can we hide delete functionality using SPFX extension?if Yes how?
+Will custom SPFx webpart work on Classic and modern site? is there any configuration needed?
+How we can achieve multilinqual functionality in SharePoint sites?
+What is threshold limit for list item in SharePoint online? Can we increase it ?
+How to handle large list in SharePoint?
+Will CAML query work as it is if list grows more than 5000 in SharePoint online?
+What things to consider in CAML query if list could grow more than 5000?
+What is Managed metadata?
