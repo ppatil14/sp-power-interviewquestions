@@ -6,4 +6,8 @@ Is preview version of connector recommended for Production use?
 What are Limitation of powerapps?
 What are limitation in Power Automate?
 Can we be able to use CSS or Javascript in PowerApps?
+Consider scenario where after item is deleted in SharePoint Online list it needs to be created in different tenant. How we can achieve it in Power Automate? What challenges we could face?
+In Power automate we are using excel connector. Excel file is stored in document library. However in Power Automate we are not able to get any table in selection. What could be wrong?
+What kind of license required to access premium connector?
+
 
