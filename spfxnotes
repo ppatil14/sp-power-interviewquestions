@@ -1,0 +1,19 @@
+SPFX basics
+	Latest version 1.12 (13.07.21)
+	Tool chain
+		Yomen generator: Scafolding for spfx framework project
+		Gulp : for task
+		Node
+	SPFX local web server need first time to execute below command gulp trust-dev-cert
+	Gulp serve  (for development purposes)
+	Deployment
+    Gulp bundle --ship
+    Gulp package-solution --ship
+	
+	  Static assets are by default packaged inside of the sppkg package.This behavior can be controled via includeClientSideAssets 
+	
+	Solution settings
+		Package-solution.json -> It defines package metadata
+	
+ To call Sharepoint rest api
+		this.context.spHttpClient.get(rest url)
