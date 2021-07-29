@@ -1,3 +1,15 @@
-List es6 feature
-what is Promise in Javascript?
+List latest javascript feature
+  es6
+    arrow functions    
+    classes
+    let and const
+    destructuring
+    modules
+    promises 
+  es8
+   async await
+  
+what is Promise in Javascript?why it is introduced
+  Promise are used to handle asyncronous calls and it was introduced for preventing callback hell.
 Difference between == and ===
+  == only check value where as === check value and type
