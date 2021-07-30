@@ -12,6 +12,7 @@ What kind of license required to access premium connector?
 What is difference between lookup filter and search functio in power apps?
 How do you managed permissions in power apps?
 How we could stop loop back in power automate (i.e. flow is trigger on item modified and flow modifies item)?
+Can we be able to execute flow with connection for user who has triggered it?
 
 
 
