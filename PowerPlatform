@@ -1,5 +1,12 @@
 What are different type of app in power apps?
 What is DataVerse?
+What are different table type in Dataverse? Explain it with example
+What are security role in dataverse? 
+Explain relationship (One to many, Many to one,Many to Many ) with example
+What different kinds of form in dataverse? (Main, Quick create ,Quick view,Card)
+What are best practices in power apps and power automate.? 
+How to solve permformance issue in power apps? -> Use concurrent, Use of component,use of delegable query etc.
+What is publisher in creating solution?
 What are Custom connector? How we can create it?
 Why to create custom connector instead of direct HTTP call?
 Is preview version of connector recommended for Production use?
